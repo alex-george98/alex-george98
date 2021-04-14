@@ -1,4 +1,2 @@
-- 👋 Hey! I’m Alex
-- 👀 I’m interested in buiding & investing in startups, with a personal focus on decentralization, digital health, applied AI/ML, and no-code/low-code
-- 🌱 I’m currently studying math at UT Austin // graduating this May to join the team over at Scale AI (scale.com)
-- 📫 Always excited to chat at alex.george@utexas.edu // equally happy to grab coffee in downtown SF!
+- 👋 Hey! I’m Alex. Building & investing in startups, with a personal focus on decentralization, digital health, applied AI/ML, and no-code/low-code
+- 📫 Always happy to chat at alex.george@utexas.edu // equally happy to grab coffee in downtown SF!
