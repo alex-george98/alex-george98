@@ -1,2 +1,2 @@
-- 👋 Hey! I’m Alex. Building & investing in startups, with a personal focus on decentralization, digital health, applied AI/ML, and no-code/low-code
+- 👋 Hey! I’m Alex. I enjoy building & investing in startups, with a personal focus on decentralization, digital health, applied AI/ML, and no-code/low-code
 - 📫 Always happy to chat at alex.george@utexas.edu // equally happy to grab coffee in downtown SF!
